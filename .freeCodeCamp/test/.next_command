@@ -33,3 +33,5 @@ git fetch origin
 git merge origin/main --no-ff
 git fetch origin
 git rebase origin/main
+git rebase origin/main
+git add .
