@@ -1,0 +1,35 @@
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git pull
+git pull https://github.com/Kiprengan/freecodecamp.git
+git config pull.ff only
+git pull https://github.com/Kiprengan/freecodecamp.git
+git merge --no-ff
+git rebase
+git remote set-url origin https://github.com/Kiprengan/freecodecamp.git
+git branch -M main
+git push -u origin main
+git pull origin main
+git pull -u origin main
+git push -u origin main
+git pull
+git pull origin main
+git pull main main
+git pull origin main
+git pull origin origin
+git pull origin main
+git merge --no-ff
+git rebase
+git pull
+git branch --set-upstream-to=https://github.com/Kiprengan/freecodecamp.git/origin main
+git fetch
+git branch --set-upstream-to=https://github.com/Kiprengan/freecodecamp.git/ main
+git pull
+git push
+git push --set-upstream origin main
+git pull origin main
+git fetch origin
+git merge origin/main --no-ff
+git fetch origin
+git rebase origin/main
