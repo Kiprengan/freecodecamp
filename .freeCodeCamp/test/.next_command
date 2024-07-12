@@ -35,3 +35,7 @@ git fetch origin
 git rebase origin/main
 git rebase origin/main
 git add .
+git commit -M "Ready"
+git commit -m "Ready"
+git rebase origin/main
+git push
