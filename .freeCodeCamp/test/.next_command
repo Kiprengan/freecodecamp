@@ -39,3 +39,7 @@ git commit -M "Ready"
 git commit -m "Ready"
 git rebase origin/main
 git push
+git fetch Free-Code-Camp
+git merge Free-Code-Camp/main --no-ff
+git merge Free-Code-Camp/main --no-ff --allow-unrelated-histories
+git add .
